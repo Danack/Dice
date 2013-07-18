@@ -15,7 +15,7 @@
             "name": "Dan Ackroyd",
             "email": "Danack@basereality.com",
             "homepage": "http://www.basereality.com"
-        },
+        }
     ],
 
     "require": {
