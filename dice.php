@@ -1,4 +1,7 @@
-<?php 
+<?php
+
+namespace Dice;
+
 /* @description 	Dice - A minimal Dependency Injection Container for PHP  
  * @author 			Tom Butler tom@r.je
  * @copyright  		2012-2013 Tom Butler <tom@r.je>
