@@ -1,0 +1,40 @@
+{
+    "name": "Danack/Dice",
+    "type": "library",
+    "description": "A minimalist Dependency Injection Container for PHP",
+    "keywords": ["dice", "injection", "dependency"],
+    "homepage": "http://r.je/dice.html",
+    "license": "BSD-2-Clause",
+
+    "authors": [
+        {
+            "name": "Tom Butler",
+            "homepage": "http://r.je/"
+        },
+        {
+            "name": "Dan Ackroyd",
+            "email": "Danack@basereality.com",
+            "homepage": "http://www.basereality.com"
+        },
+    ],
+
+    "require": {
+        "php": ">=5.3.2"
+    },
+
+    "autoload": {
+        "psr-0": {
+            "Guzzle\\Tests": "tests/",
+            "Guzzle": "src/"
+        }
+    },
+
+    "require-dev": {
+    },
+
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.0.1-dev"
+        }
+    }
+}
